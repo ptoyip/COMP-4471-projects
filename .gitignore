@@ -5,3 +5,5 @@ annotations
 model.pt
 FaceMask_12k
 Zoom
+model_weight.pt
+yolov5s.pt
