@@ -7,3 +7,6 @@ FaceMask_12k
 Zoom
 model_weight.pt
 yolov5s.pt
+retinaface_gt_v1
+WIDER_val
+WIDER_train
